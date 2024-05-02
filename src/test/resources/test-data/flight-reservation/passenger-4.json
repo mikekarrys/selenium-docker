@@ -1,0 +1,11 @@
+{
+  "firstname": "bonnie",
+  "lastname": "raite",
+  "email": "br@pop.com",
+  "password": "br",
+  "street": "123 main street",
+  "city": "nashville",
+  "zip": "30001",
+  "passengersCount": "4",
+  "expectedPrice": "$2338 USD"
+}

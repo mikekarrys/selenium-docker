@@ -1,0 +1,11 @@
+{
+  "firstname": "janet",
+  "lastname": "jackson",
+  "email": "jj@pop.com",
+  "password": "jj",
+  "street": "123 main street",
+  "city": "los angeles",
+  "zip": "30001",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}
